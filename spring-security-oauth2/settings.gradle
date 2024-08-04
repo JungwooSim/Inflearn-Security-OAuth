@@ -2,3 +2,4 @@ rootProject.name = 'spring-security-oauth2'
 
 include(":oauth2-client")
 include(":oauth2-authorization-server")
+include(":oauth2-authorization-server2")
